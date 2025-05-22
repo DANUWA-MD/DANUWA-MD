@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">Hi there, I'm <a href="https://github.com/DANUWA-MD" target="_blank">DDANUKA DISSANAYAKA</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/DANUWA-MD" target="_blank">Danuwa Dev</a> 👋</h1>
 <h3 align="center">Full-Stack Developer | WhatsApp Bot Engineer | Automation Enthusiast</h3>
 
 <p align="center">
@@ -22,7 +22,7 @@
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,javascript,html,css,linux,git,github,vscode,bash" />
+  <img src="https://skillicons.dev/icons?i=nodejs,javascript,puppeteer,html,css,linux,git,github,vscode,bash" />
 </p>
 
 ---
@@ -42,15 +42,22 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DANUWA-MD&theme=radical" height="180"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DANUWA-MD&theme=rogue" alt="activity graph" />
+</p>
+
 ---
 
-### 🚀 Featured Projects
+### 📦 DANUWA-MD Plugin Highlights
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🧠 DANUWA-MD](https://github.com/DANUWA-MD/DANUWA-MD) | Modular WhatsApp bot built with Node.js – powerful, pluggable, and fast. | Node.js, Puppeteer |
-| [📥 GDrive DL](https://github.com/DANUWA-MD/gdrive-dl) | A downloader that bypasses Google Drive preview limits for large files. | Node.js, Cheerio |
-| [🎨 LogoGen Plugin](https://github.com/DANUWA-MD/logo-plugin) | Stylish logo generator plugin with neon, anime, and text effects. | Node.js, Canvas |
+| Plugin Type | Description |
+|-------------|-------------|
+| 🖼️ Image Tools | Circle crop, round borders, quote stickers, photo effects |
+| 🎨 Logo Generators | Neon text, anime-style, fancy fonts, glowing effects |
+| 📥 File Downloaders | GDrive bypass, PDF tools, video downloaders |
+| 🌐 Search Plugins | Google, IMDb, Wikipedia, Lyrics, Weather |
+| 🔁 Media Converters | Image ↔️ Audio ↔️ Video conversions |
+| 📜 Misc Commands | Fancy text, dictionary, jokes, quotes, utilities |
 
 ---
 
