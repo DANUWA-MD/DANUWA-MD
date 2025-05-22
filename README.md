@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">Hi there, I'm <a href="https://github.com/DANUWA-MD" target="_blank">Danuwa Dev</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/DANUWA-MD" target="_blank">DANUKA DISSANAYAKA</a> 👋</h1>
 <h3 align="center">Full-Stack Developer | WhatsApp Bot Engineer | Automation Enthusiast</h3>
 
 <p align="center">
@@ -64,9 +64,28 @@
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/DANUWA-MD"><img src="https://img.shields.io/github/followers/DANUWA-MD?label=GitHub&style=social"></a>
-  <a href="mailto:educatelux1@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://t.me/danuwa_support"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://wa.me/94776121326" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp_Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010" />
+  </a>
+  <a href="https://web.facebook.com/danuka.disanayaka.3701/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook_Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010" />
+  </a>
+  <a href="https://www.quizontal.com" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_Website-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=101010" />
+  </a>
+  <a href="https://github.com/DANUWA-MD" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" />
+  </a>
+  <a href="mailto:educatelux1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" />
+  </a>
+  <a href="https://t.me/danuwa_support" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram_Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=101010" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Connect+With+Me+Anywhere+%F0%9F%9A%80;Let's+Build+Something+Cool+Together!" alt="Typing Connect" />
 </p>
 
 ---
