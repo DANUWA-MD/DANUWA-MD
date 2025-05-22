@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Building: **[DANUWA-MD](https://github.com/DANUWA-MD/DANUWA-MD)** – a powerful WhatsApp bot with plugin-based architecture  
+- 🔭 Building: **[DANUWA-MD](https://github.com/DANUWA-MD/DANUWA-BOT)** – a powerful WhatsApp bot with plugin-based architecture  
 - ⚙️ Skills: `Node.js`, `Puppeteer`, `Cheerio`, `Axios`, `Canvas`, `fs`, `path`, `Linux`, `Bash`  
 - 🛠 Plugins: Image editing, file downloaders, logo generators, media tools, search bots, and more  
 - 📦 Deployment: Railway, GitHub Actions, PAT-secured private modules  
