@@ -1,56 +1,73 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
-<h3 align="center">🚀 Passionate Developer | 🌐 Open Source Contributor | 🤖 Bot Builder</h3>
+<!-- HEADER -->
+<h1 align="center">Hi there, I'm <a href="https://github.com/DANUWA-MD" target="_blank">Danuwa Dev</a> 👋</h1>
+<h3 align="center">Full-Stack Developer | WhatsApp Bot Engineer | Automation Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DANUWA-MD&label=Profile%20views&color=0e75b6&style=flat" alt="DANUWA-MD" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Creator+of+DANUWA-MD+%E2%9A%94;I+automate+the+web+%F0%9F%9A%80;Open+Source+%E2%9D%A4%EF%B8%8F;Let's+build+together!" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **DANUWA-MD WhatsApp Bot**
-- 🌱 I’m learning **Node.js**, **Puppeteer**, and **API scraping**
-- 👯 I’m looking to collaborate on **open source projects**
-- 💬 Ask me about **JavaScript**, **Bot Development**, or **Web Automation**
-- 📫 How to reach me: `you@example.com`
-- ⚡ Fun fact: *I automate everything I can!*
+- 🔭 Building: **[DANUWA-MD](https://github.com/DANUWA-MD/DANUWA-MD)** – a powerful WhatsApp bot with plugin-based architecture  
+- ⚙️ Skills: `Node.js`, `Puppeteer`, `Cheerio`, `Axios`, `Canvas`, `fs`, `path`, `Linux`, `Bash`  
+- 🛠 Plugins: Image editing, file downloaders, logo generators, media tools, search bots, and more  
+- 📦 Deployment: Railway, GitHub Actions, PAT-secured private modules  
+- 📫 Reach me at: `educatelux1@gmail.com` or [Telegram](https://t.me/danuwa_support)  
+- ⚡ Fun Fact: My bot writes cleaner code than some humans 🧠  
 
 ---
 
-### 🚀 Tech Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/puppeteer/puppeteer-original.svg" width="40" height="40"/>
-</p>
-
----
-
-### 📈 GitHub Stats
+### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="your stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical" alt="your streak" />
+  <img src="https://skillicons.dev/icons?i=nodejs,javascript,puppeteer,html,css,linux,git,github,vscode,bash" />
 </p>
 
 ---
 
-### 📫 Let's Connect
+### 🏆 GitHub Trophies
 
-<p align="left">
-  <a href="https://github.com/your-username" target="_blank"><img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social" alt="GitHub"></a>
-  <a href="https://t.me/yourtelegram" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DANUWA-MD&theme=radical&no-frame=true&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DANUWA-MD&theme=radical&show_icons=true&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DANUWA-MD&theme=radical" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DANUWA-MD&theme=rogue" alt="activity graph" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [🧠 DANUWA-MD](https://github.com/DANUWA-MD/DANUWA-MD) | Modular WhatsApp bot built with Node.js – powerful, pluggable, and fast. | Node.js, Puppeteer |
+| [📥 GDrive DL](https://github.com/DANUWA-MD/gdrive-dl) | A downloader that bypasses Google Drive preview limits for large files. | Node.js, Cheerio |
+| [🎨 LogoGen Plugin](https://github.com/DANUWA-MD/logo-plugin) | Stylish logo generator plugin with neon, anime, and text effects. | Node.js, Canvas |
+
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/DANUWA-MD"><img src="https://img.shields.io/github/followers/DANUWA-MD?label=GitHub&style=social"></a>
+  <a href="mailto:educatelux1@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://t.me/danuwa_support"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027&height=120&section=footer"/>
 </p>
