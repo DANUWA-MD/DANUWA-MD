@@ -42,10 +42,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DANUWA-MD&theme=radical" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DANUWA-MD&theme=rogue" alt="activity graph" />
-</p>
-
 ---
 
 ### 🚀 Featured Projects
