@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">Hi there, I'm <a href="https://github.com/DANUWA-MD" target="_blank">Danuwa Dev</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/DANUWA-MD" target="_blank">DDANUKA DISSANAYAKA</a> 👋</h1>
 <h3 align="center">Full-Stack Developer | WhatsApp Bot Engineer | Automation Enthusiast</h3>
 
 <p align="center">
@@ -22,7 +22,7 @@
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,javascript,puppeteer,html,css,linux,git,github,vscode,bash" />
+  <img src="https://skillicons.dev/icons?i=nodejs,javascript,html,css,linux,git,github,vscode,bash" />
 </p>
 
 ---
